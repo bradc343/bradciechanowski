@@ -1,2 +1,0 @@
-# bradciechanowski
-resume website
