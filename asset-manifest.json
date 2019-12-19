@@ -1,26 +1,32 @@
 {
   "files": {
-    "main.css": "/static/css/main.b2c4f65e.chunk.css",
-    "main.js": "/static/js/main.34d7421f.chunk.js",
-    "main.js.map": "/static/js/main.34d7421f.chunk.js.map",
+    "main.css": "/static/css/main.e9349ad5.chunk.css",
+    "main.js": "/static/js/main.c0d04bf5.chunk.js",
+    "main.js.map": "/static/js/main.c0d04bf5.chunk.js.map",
     "runtime-main.js": "/static/js/runtime-main.8eea71de.js",
     "runtime-main.js.map": "/static/js/runtime-main.8eea71de.js.map",
-    "static/js/2.1612ed83.chunk.js": "/static/js/2.1612ed83.chunk.js",
-    "static/js/2.1612ed83.chunk.js.map": "/static/js/2.1612ed83.chunk.js.map",
+    "static/js/2.83b021fe.chunk.js": "/static/js/2.83b021fe.chunk.js",
+    "static/js/2.83b021fe.chunk.js.map": "/static/js/2.83b021fe.chunk.js.map",
     "index.html": "/index.html",
-    "precache-manifest.63b4757486595fd1d297efd0f365be6d.js": "/precache-manifest.63b4757486595fd1d297efd0f365be6d.js",
+    "precache-manifest.eed160c1e2d51423b479389d7a245086.js": "/precache-manifest.eed160c1e2d51423b479389d7a245086.js",
     "service-worker.js": "/service-worker.js",
-    "static/css/main.b2c4f65e.chunk.css.map": "/static/css/main.b2c4f65e.chunk.css.map",
+    "static/css/main.e9349ad5.chunk.css.map": "/static/css/main.e9349ad5.chunk.css.map",
     "static/media/bartender.jpg": "/static/media/bartender.d3e1e1f4.jpg",
     "static/media/brad.jpg": "/static/media/brad.8d14941b.jpg",
+    "static/media/bradciechanowski.JPG": "/static/media/bradciechanowski.dcf7b318.JPG",
+    "static/media/cryptocurrency-logo.jpg": "/static/media/cryptocurrency-logo.2fa9e106.jpg",
+    "static/media/curated.JPG": "/static/media/curated.c3783345.JPG",
     "static/media/falls.jpg": "/static/media/falls.948f7558.jpg",
+    "static/media/ninjatrader.jpg": "/static/media/ninjatrader.750b452a.jpg",
+    "static/media/ourfreshview.JPG": "/static/media/ourfreshview.7d87aa84.JPG",
     "static/media/signature.svg": "/static/media/signature.baf8d17e.svg",
+    "static/media/thinkorswim.jpg": "/static/media/thinkorswim.8eb4a397.jpg",
     "static/media/tiger.jpg": "/static/media/tiger.d91d7bf1.jpg"
   },
   "entrypoints": [
     "static/js/runtime-main.8eea71de.js",
-    "static/js/2.1612ed83.chunk.js",
-    "static/css/main.b2c4f65e.chunk.css",
-    "static/js/main.34d7421f.chunk.js"
+    "static/js/2.83b021fe.chunk.js",
+    "static/css/main.e9349ad5.chunk.css",
+    "static/js/main.c0d04bf5.chunk.js"
   ]
 }
