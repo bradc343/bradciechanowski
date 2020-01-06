@@ -1,18 +1,18 @@
 {
   "files": {
     "main.css": "/static/css/main.245f4109.chunk.css",
-    "main.js": "/static/js/main.6c96cb0b.chunk.js",
-    "main.js.map": "/static/js/main.6c96cb0b.chunk.js.map",
+    "main.js": "/static/js/main.821fd684.chunk.js",
+    "main.js.map": "/static/js/main.821fd684.chunk.js.map",
     "runtime-main.js": "/static/js/runtime-main.8eea71de.js",
     "runtime-main.js.map": "/static/js/runtime-main.8eea71de.js.map",
     "static/js/2.31277697.chunk.js": "/static/js/2.31277697.chunk.js",
     "static/js/2.31277697.chunk.js.map": "/static/js/2.31277697.chunk.js.map",
     "index.html": "/index.html",
-    "precache-manifest.82ae822ad22a322e9329bfbdeb96f9c0.js": "/precache-manifest.82ae822ad22a322e9329bfbdeb96f9c0.js",
+    "precache-manifest.1ac424cdff32abd284408c75a3b12116.js": "/precache-manifest.1ac424cdff32abd284408c75a3b12116.js",
     "service-worker.js": "/service-worker.js",
     "static/css/main.245f4109.chunk.css.map": "/static/css/main.245f4109.chunk.css.map",
     "static/media/bartender.jpg": "/static/media/bartender.d3e1e1f4.jpg",
-    "static/media/brad.jpg": "/static/media/brad.8d14941b.jpg",
+    "static/media/brad (2).jpg": "/static/media/brad (2).1611d66a.jpg",
     "static/media/bradciechanowski.JPG": "/static/media/bradciechanowski.dcf7b318.JPG",
     "static/media/cryptocurrency-logo.jpg": "/static/media/cryptocurrency-logo.2fa9e106.jpg",
     "static/media/curated.JPG": "/static/media/curated.c3783345.JPG",
@@ -30,6 +30,6 @@
     "static/js/runtime-main.8eea71de.js",
     "static/js/2.31277697.chunk.js",
     "static/css/main.245f4109.chunk.css",
-    "static/js/main.6c96cb0b.chunk.js"
+    "static/js/main.821fd684.chunk.js"
   ]
 }
