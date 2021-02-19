@@ -1,35 +1,37 @@
 {
   "files": {
-    "main.css": "/static/css/main.245f4109.chunk.css",
-    "main.js": "/static/js/main.821fd684.chunk.js",
-    "main.js.map": "/static/js/main.821fd684.chunk.js.map",
+    "main.css": "/static/css/main.0cedb1f9.chunk.css",
+    "main.js": "/static/js/main.797c77d4.chunk.js",
+    "main.js.map": "/static/js/main.797c77d4.chunk.js.map",
     "runtime-main.js": "/static/js/runtime-main.8eea71de.js",
     "runtime-main.js.map": "/static/js/runtime-main.8eea71de.js.map",
-    "static/js/2.31277697.chunk.js": "/static/js/2.31277697.chunk.js",
-    "static/js/2.31277697.chunk.js.map": "/static/js/2.31277697.chunk.js.map",
+    "static/js/2.aa282be7.chunk.js": "/static/js/2.aa282be7.chunk.js",
+    "static/js/2.aa282be7.chunk.js.map": "/static/js/2.aa282be7.chunk.js.map",
     "index.html": "/index.html",
-    "precache-manifest.1ac424cdff32abd284408c75a3b12116.js": "/precache-manifest.1ac424cdff32abd284408c75a3b12116.js",
+    "precache-manifest.1810bbe3f2c50e8b1185d539eaaaf305.js": "/precache-manifest.1810bbe3f2c50e8b1185d539eaaaf305.js",
     "service-worker.js": "/service-worker.js",
-    "static/css/main.245f4109.chunk.css.map": "/static/css/main.245f4109.chunk.css.map",
+    "static/css/main.0cedb1f9.chunk.css.map": "/static/css/main.0cedb1f9.chunk.css.map",
     "static/media/bartender.jpg": "/static/media/bartender.d3e1e1f4.jpg",
     "static/media/brad (2).jpg": "/static/media/brad (2).1611d66a.jpg",
     "static/media/bradciechanowski.JPG": "/static/media/bradciechanowski.dcf7b318.JPG",
     "static/media/cryptocurrency-logo.jpg": "/static/media/cryptocurrency-logo.2fa9e106.jpg",
     "static/media/curated.JPG": "/static/media/curated.c3783345.JPG",
     "static/media/falls.jpg": "/static/media/falls.948f7558.jpg",
+    "static/media/mobileOverdrive.JPG": "/static/media/mobileOverdrive.80f78e1a.JPG",
     "static/media/mobilebradciechanowski.JPG": "/static/media/mobilebradciechanowski.a7149983.JPG",
     "static/media/mobilecurated.JPG": "/static/media/mobilecurated.782b4c04.JPG",
     "static/media/mobileourfreshview.JPG": "/static/media/mobileourfreshview.ce3304c0.JPG",
     "static/media/ninjatrader.jpg": "/static/media/ninjatrader.750b452a.jpg",
     "static/media/ourfreshview.JPG": "/static/media/ourfreshview.7d87aa84.JPG",
+    "static/media/overdrive.JPG": "/static/media/overdrive.7a329ba6.JPG",
     "static/media/signature.svg": "/static/media/signature.baf8d17e.svg",
     "static/media/thinkorswim.jpg": "/static/media/thinkorswim.8eb4a397.jpg",
     "static/media/tiger.jpg": "/static/media/tiger.d91d7bf1.jpg"
   },
   "entrypoints": [
     "static/js/runtime-main.8eea71de.js",
-    "static/js/2.31277697.chunk.js",
-    "static/css/main.245f4109.chunk.css",
-    "static/js/main.821fd684.chunk.js"
+    "static/js/2.aa282be7.chunk.js",
+    "static/css/main.0cedb1f9.chunk.css",
+    "static/js/main.797c77d4.chunk.js"
   ]
 }
